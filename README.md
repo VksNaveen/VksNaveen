@@ -259,9 +259,12 @@ In my experience, I've improved patient risk prediction accuracy by **+19%**, in
 ```text
 "The best engineer is not the one who knows the most tools --
 it's the one who builds systems that actually solve real problems at scale."
-
 -- Naveen Karuppasamy
 ```
+<div align="center">
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=VksNaveen&color=C50337&style=for-the-badge&label=PROFILE+VIEWS)
+</div>
 
 ---
 
